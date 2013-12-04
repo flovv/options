@@ -1,4 +1,4 @@
-id|version|ask|bid|date_scraped|last|open|option_id|stockprice|vol|id|version|name|strike|type
+id|version|ask|bid|date_scraped|last|open|option_id|stockprice|vol|id|version|name|strike|type  
 52120|0|NaN|NaN|2013-06-04 17:07:37.186|NaN|NaN|51059|452|NaN|51059|0||NaN|Call
 52121|0|NaN|NaN|2013-06-04 17:07:37.307|NaN|NaN|51059|452|NaN|51059|0||NaN|Call
 52122|0|254.6|253.15|2013-06-04 17:07:37.312|232.9|1|51062|452|1|51062|0|AAPL130817C00200000|200|Call
